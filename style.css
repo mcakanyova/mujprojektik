@@ -14,9 +14,9 @@ body {   height: 100%;
   
   h1{color:beige; text-align: center;font-size: 80px;font-style:italic;}
   
-  h2{color:#003249; text-align: center; serif; font-size: 42px; font-family: "Arial";}
+  h2{color:#003249; text-align: center; font-size: 42px; font-family: "Arial";}
   
-  h3{color:#003249; text-align: left; serif; font-size: 30px; font-family: "Arial";}
+  h3{color:#003249; text-align: left; font-size: 30px; font-family: "Arial";}
   
   
  
@@ -73,4 +73,4 @@ body {   height: 100%;
   }
   
   
-  footer {font-family: "Arial"; font-style: italic; sans-serif; color:#EDFADC; background: grey; font-size: 18px; text-align: center; padding: 5%;overflow: auto;}
+  footer {font-family: "Arial", sans-serif; font-style: italic; color:#EDFADC; background: grey; font-size: 18px; text-align: center; padding: 5%;overflow: auto;}
