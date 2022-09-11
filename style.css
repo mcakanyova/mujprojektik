@@ -1,0 +1,76 @@
+body {   height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    margin: 0;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    color: #003249;
+  }
+  
+  nav {display: block; padding: 15%;}
+  
+  h1{color:beige; text-align: center;font-size: 80px;font-style:italic;}
+  
+  h2{color:#003249; text-align: center; serif; font-size: 42px; font-family: "Arial";}
+  
+  h3{color:#003249; text-align: left; serif; font-size: 30px; font-family: "Arial";}
+  
+  
+ 
+  section {
+    padding: 50px 15%;
+    overflow: auto;
+  }
+  
+  .introduction,
+  .education, 
+  .links {
+    background-color: beige;
+  }
+  
+  .experience,
+  .conferences {
+    background-color: #CCDBDC;
+  }
+  
+  
+  
+  img {border: 5px solid beige ;display: block; border-radius: 50%; margin-left: auto; margin-right: auto; width: 25%;}
+  
+  
+  .CV {
+      padding: 150px 30px;
+      background-image: url(obrazky/wall.png);
+      background-repeat: no-repeat;
+      background-position: top;
+      background-size: cover;
+  }
+  
+  
+  
+  .menu {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #CCDBDC;
+    border-top: 1px solid lightblue;
+  }
+  
+  .menu a {
+    display: inline-block;
+    padding: 1% 2%;
+    font-size: 20px;
+    font-style: normal;
+    text-decoration: none;
+    color: #003249;
+  }
+  
+  .menu a:hover {
+    background-color: #F6F8DD;
+  }
+  
+  
+  footer {font-family: "Arial"; font-style: italic; sans-serif; color:#EDFADC; background: grey; font-size: 18px; text-align: center; padding: 5%;overflow: auto;}
