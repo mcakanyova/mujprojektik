@@ -17,8 +17,7 @@ body {   height: 100%;
   h2{color:#003249; text-align: center; font-size: 42px; font-family: "Arial";}
   
   h3{color:#003249; text-align: left; font-size: 30px; font-family: "Arial";}
-  
-  
+   
  
   section {
     padding: 50px 15%;
@@ -35,12 +34,9 @@ body {   height: 100%;
   .conferences {
     background-color: #CCDBDC;
   }
-  
-  
-  
+      
   img {border: 5px solid beige ;display: block; border-radius: 50%; margin-left: auto; margin-right: auto; width: 25%;}
-  
-  
+    
   .CV {
       padding: 150px 30px;
       background-image: url(obrazky/wall.png);
@@ -49,8 +45,7 @@ body {   height: 100%;
       background-size: cover;
   }
   
-  
-  
+   
   .menu {
     margin: 0;
     padding: 0;
@@ -71,6 +66,5 @@ body {   height: 100%;
   .menu a:hover {
     background-color: #F6F8DD;
   }
-  
-  
+    
   footer {font-family: "Arial", sans-serif; font-style: italic; color:#EDFADC; background: grey; font-size: 18px; text-align: center; padding: 5%;overflow: auto;}
