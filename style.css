@@ -1,8 +1,4 @@
-body {   height: 100%;
-    width: 100%;
-  }
-  
-  body {
+ body {
     margin: 0;
     font-family: 'Helvetica Neue', sans-serif;
     font-size: 20px;
@@ -32,8 +28,8 @@ body {   height: 100%;
   }
   
   .experience,
-  .conferences,
-  .foreign {
+  .conferences
+  {
     background-color: #CCDBDC;
   }
       
